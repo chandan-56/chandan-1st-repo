@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Webpage</title>
+</head>
+<body>
+    <h1><b>[Your Name]</b></h1>
+    <h5><b>Email</b> : abcd@gmail.com | <b>Phone</b> : 6969696969 | <b>My Github URL</b>: <a href = "https://github.com/chandan-56" target = "_blank">Github</a></h5>
+    <hr>
+
+    <h2><b>Education</b></h2>
+    <h5>
+        <ul type = 'circle'>
+        <li>Lorem ipsum dolor sit amet consectetur adipiscing elit.Voluptas magni a sequi coprporis, inventore ullua </li>
+       
+        <li>sapiente fugiat cum voluptate ipsum, possimus veniam sint architecto! Dolorum corporis dolores eos pariatur quod?
+
+        </li>
+        </ul>
+        <hr>
+    </h5>
+    <h2>Skills</h2>
+    
+    <table class = "table">
+        <thread>
+            <tr>
+                <th>
+                    Language
+                </th>
+                <th>Skill</th>
+            </tr>
+        </thread>
+    
+            <tr>
+                <td>HTML</td>
+                <td>&#9733 &#9733 &#9733 &#9733 &#9734 </td>
+
+
+                
+            </tr>
+            <tr>
+                <td>CSS</td>
+                <td>&#9733 &#9733 &#9733 &#9734 &#9734 </td>
+            </tr>
+            <tr>
+                <td>Javascript</td>
+                <td>&#9733 &#9733 &#9734 &#9734 &#9734
+                </td>
+            </tr>
+        </thread>  
+    </table>
+    <hr>
+    <h3>Contact Me</h3>
+
+    <table, th, td {
+        border: 1px solid black;></table>
+
+    <table class = "table">
+        
+        
+        <form action = ""> 
+            <p>
+                Your Name : <input type = "text">
+            </p>
+            <p>
+                Your Email id : <input type = "text" >
+            </p>
+
+        </form>
+            <p></p>    Your Message : <textarea name = "Message" id = "message_id" cols = "75" rows = "6"></textarea></p>
+
+</body>
+</html>
+        
+
+            
+        
+    
+    
+        
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
